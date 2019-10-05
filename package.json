@@ -1,0 +1,16 @@
+{
+  "name": "btctalk-notifier",
+  "private": true,
+  "version": "1.1.1",
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "jsdom": "^15.1.1",
+    "moment": "^2.24.0",
+    "progress": "^2.0.3",
+    "sequelize": "^5.8.12",
+    "sqlite3": "^4.0.9",
+    "telegraf": "^3.30.1"
+  }
+}
